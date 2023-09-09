@@ -2,7 +2,7 @@
 
 # AUTHOR = AKILESH S
 
-It is my simple <li><a href="https://akileshsaravanan.github.io/">Portfolio</a> which contains my projects, works, etc...
+It is my simple <a href="https://akileshsaravanan.github.io/">Portfolio</a> which contains my projects, works, etc...
 
 To know more about me or to follow my work, you can visit me on,
 
